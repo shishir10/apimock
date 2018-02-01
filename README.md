@@ -1,3 +1,7 @@
+#Update : 
+
+The endpoint /csv2json take parameters by post method, and accepts a field called 'file' as form data.
+
 #test-setup
 
 This repo contains a broken server setup you are expected to fix. The server then needs to give the correct responses to the below questions. 
